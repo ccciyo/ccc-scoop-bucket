@@ -9,5 +9,5 @@
             "extract_dir": "cwrsync_6.2.4_x64_free"
         }
     },
-    "bin": "bin\\rsync.exe",
+    "bin": "bin\\rsync.exe"
 }
